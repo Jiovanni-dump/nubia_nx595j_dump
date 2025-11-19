@@ -1,0 +1,14 @@
+# NX595J-user 7.1.1 NMF26X eng.nubia.20181018.102712 release-keys
+- manufacturer: nubia
+- platform: msm8998
+- codename: NX595J
+- flavor: NX595J-user
+- release: 7.1.1
+- id: NMF26X
+- incremental: eng.nubia.20181018.102712
+- tags: release-keys
+- fingerprint: nubia/NX595J/NX595J:7.1.1/NMF26X/eng.nubia.20181018.102712:user/release-keys
+- is_ab: false
+- brand: nubia
+- branch: NX595J-user-7.1.1-NMF26X-eng.nubia.20181018.102712-release-keys
+- repo: nubia_nx595j_dump

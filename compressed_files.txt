@@ -1,0 +1,8 @@
+system/etc/dts/dts-eagle.lic.xz
+system/app/ZNubiaEdge/ZNubiaEdge.apk.xz
+system/app/WebViewGoogle/WebViewGoogle.apk.xz
+system/app/Chrome/Chrome.apk.xz
+system/app/Maps/oat/arm64/Maps.odex.xz
+system/priv-app/Velvet/oat/arm64/Velvet.odex.xz
+system/priv-app/GmsCore/oat/arm/GmsCore.odex.xz
+system/priv-app/GmsCore/oat/arm64/GmsCore.odex.xz
