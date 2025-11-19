@@ -1,0 +1,2 @@
+system/etc/dts/dts-eagle.lic.xz
+system/app/WebViewGoogle/WebViewGoogle.apk.xz
